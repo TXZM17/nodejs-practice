@@ -1,0 +1,9 @@
+{
+    "name": "chtrooms",
+    "version": "0.0.1",
+    "description": "web聊天室程序",
+    "dependencies": {
+        "socket.io": "~0.9.6",
+        "mime": "~1.2.7"
+    }
+}
